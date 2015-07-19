@@ -1,0 +1,9 @@
+{
+    "name": "primerg/wkhtmltopdf",
+    "description": "A PHP class which helps working with WKHTMLTOPDF",
+    "authors": [
+        {
+            "name": "primerg"
+        }
+    ]
+}
